@@ -16,16 +16,3 @@ Passengers can easily cancel their reservations using their unique PNR number. T
 🔹 Centralized Booking Viewer
 A dedicated module allows users to view a complete and organized list of all currently booked tickets, providing a clear overview of all active reservations within the system.
 
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
